@@ -1,19 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF2D20&height=250&section=header&text=Guilherme%20Pantoja&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Back-end%20Specialist&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF2D20&height=250&section=header&text=Guilherme%20Pantoja&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20PHP%20%26%20Python&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF2D20&center=true&vCenter=true&width=435&lines=PHP+%26+Laravel+Expert;Python+%26+Django+Specialist;Building+Robust+ERPs;Docker+%26+DevOps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF2D20&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;PHP+%26+Laravel+Expert;Python+%26+Django+Specialist;Building+Robust+Solutions" alt="Typing SVG" />
   </a>
 </h1>
 
 <p align="center">
-  👨‍💻 <b>Engenharia de Software @ UFAM</b> | 🛠️ <b>Back-end Developer</b>
+  👨‍💻 <b>Engenharia de Software @ UFAM</b>
 </p>
 
 <p align="center">
-  Desenvolvedor focado em <b>Back-end de Alta Performance</b>. Especialista na arquitetura de soluções robustas usando <b>PHP (Laravel)</b> e <b>Python (Django)</b>. Tenho vasta experiência na construção de ERPs complexos, automação de processos críticos e infraestrutura com Docker.
+  Sou um <b>Desenvolvedor Full Stack</b> focado na criação de soluções robustas e escaláveis. Minha especialidade é integrar back-ends poderosos em <b>PHP (Laravel)</b> e <b>Python (Django)</b> com interfaces ágeis e funcionais. Tenho experiência sólida em arquitetura de software, automação de infraestrutura com Docker e desenvolvimento de ERPs complexos.
 </p>
 
 <div align="center">
@@ -32,15 +32,16 @@
 <div align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blade-F05340?style=for-the-badge&logo=laravel&logoColor=white" />
-  <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/DRF-A30300?style=for-the-badge&logo=django&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </div>
 
@@ -52,12 +53,12 @@
 
 ### 🏗️ ERP & Gestão Empresarial (ForteTech)
 > *Sistema de missão crítica desenvolvido para centralizar operações de múltiplos postos de gasolina.*
-- **Core:** Monólito Modular com **Django** e integrações legadas em **PHP**.
+- **Full Stack:** Monólito Modular com **Django** (Back) e Templates/JS (Front).
 - **Destaques:** Automação de conciliação bancária (CNAB), Serviços Windows com NSSM e Pipelines CI/CD.
 
 ### 🧾 G2M Fiscal Manager (SaaS)
 > *Plataforma Multi-tenant para emissão de Notas Fiscais (NFS-e).*
-- **Core:** Desenvolvido em **Laravel**.
+- **Full Stack:** Desenvolvido em **Laravel** com interface reativa usando **Blade + Alpine.js**.
 - **Destaques:** Uso intensivo de Queues (RabbitMQ) para processamento fiscal assíncrono e cálculo tributário dinâmico.
 
 <br>
@@ -77,12 +78,13 @@
 
 <div align="center">
 
-![Guilherme's Stats](https://github-readme-stats.vercel.app/api?username=guilhermepantoja789&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+<img src="https://github-readme-stats.vercel.app/api?username=guilhermepantoja789&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepantoja789&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepantoja789&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="Top Languages" />
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=guilhermepantoja789&theme=tokyonight&hide_border=true)
-
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermepantoja789&theme=tokyonight&hide_border=true" height="180" alt="Streak" />
 </div>
 
 <hr>
