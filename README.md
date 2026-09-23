@@ -63,9 +63,8 @@ Tools and labs where I deepen the language (stdlib, concurrency, protocols, TUI)
 | Project | What it is |
 |---------|------------|
 | [**docker-tui**](https://github.com/guilhermepantoja789/docker-tui) | Bubble Tea TUI for container metrics and lifecycle; viewport-priority one-shot stats (scales to large fleets) |
-| [**glpi-tui**](https://github.com/guilhermepantoja789/glpi-tui) | Terminal UI for day-to-day GLPI operations |
+| [**mini-redis**](https://github.com/guilhermepantoja789/mini-redis) | In-memory key-value server compatible with `redis-cli` — RESP2, TTL, AOF, `go test -race` |
 | [**terminal-toolkit**](https://github.com/guilhermepantoja789/terminal-toolkit) | Shell utilities that make terminal work less painful |
-| **mini-redis** *(in progress)* | Key-value server compatible with `redis-cli` — RESP, TTL, AOF, `go test -race` |
 | **mini-dag-scheduler** *(in progress)* | DAG workflow orchestrator with cascading cancellation via `context` |
 
 ```bash
