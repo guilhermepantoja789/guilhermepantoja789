@@ -107,12 +107,12 @@ Bubble Tea · Alpine.js · Blade · Nuxt (consumer) · Tauri/Rust (POS client) �
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermepantoja789&show_icons=true&theme=transparent&hide_border=true&title_color=00ADD8&icon_color=00ADD8&text_color=c9d1d9&bg_color=00000000" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepantoja789&layout=compact&theme=transparent&hide_border=true&title_color=00ADD8&text_color=c9d1d9&bg_color=00000000" height="165" alt="Top languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=guilhermepantoja789&show_icons=true&theme=transparent&hide_border=true&title_color=00ADD8&icon_color=00ADD8&text_color=c9d1d9&bg_color=00000000" height="165" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=guilhermepantoja789&layout=compact&theme=transparent&hide_border=true&title_color=00ADD8&text_color=c9d1d9&bg_color=00000000" height="165" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=guilhermepantoja789&theme=dark&hide_border=true&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8" height="150" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=guilhermepantoja789&theme=dark&hide_border=true&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8" height="150" alt="GitHub streak" />
 </p>
 
 ---
